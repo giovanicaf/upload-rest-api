@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40648047-289e-4875-a304-60e07a5703ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/contato-api/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contato-api/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contato-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/contato-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contato-api/src/main/java/com/algaworks/contato/ContatoApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/contato-api/src/main/java/io/github/giovanicaf/contato/ContatoApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contato-api/src/main/java/com/algaworks/contato/resource/FotosResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/contato-api/src/main/java/io/github/giovanicaf/contato/resource/FotosResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contato-api/src/main/java/com/algaworks/contato/storage/Disco.java" beforeDir="false" afterPath="$PROJECT_DIR$/contato-api/src/main/java/io/github/giovanicaf/contato/storage/Disco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contato-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/contato-api/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contato-api/src/test/java/com/algaworks/contato/ContatoApiApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1waBP9nJhPbXC1EKh4WuECVnoW2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RunManager" selected="Application.ContatoApiApplication">
+    <configuration name="ContatoApiApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.giovanicaf.contato.ContatoApiApplication" />
+      <module name="contato-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.giovanicaf.contato.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContatoApiApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="contato-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.giovanicaf.contato.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.github.giovanicaf.contato" />
+      <option name="MAIN_CLASS_NAME" value="io.github.giovanicaf.contato.ContatoApiApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="io.github.giovanicaf.contato in contato-api" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="contato-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.giovanicaf.contato.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.github.giovanicaf.contato" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ContatoApiApplication" />
+      <item itemvalue="JUnit.ContatoApiApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.io.github.giovanicaf.contato in contato-api" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.io.github.giovanicaf.contato in contato-api" />
+        <item itemvalue="JUnit.ContatoApiApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40648047-289e-4875-a304-60e07a5703ab" name="Default Changelist" comment="" />
+      <created>1628686792549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628686792549</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/upload_rest_api$io_github_giovanicaf_contato_in_contato_api.ic" NAME="io.github.giovanicaf.contato in contato-api Coverage Results" MODIFIED="1628690119887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>io.github.giovanicaf.contato.*</FILTER>
+    </SUITE>
+  </component>
+</project>
